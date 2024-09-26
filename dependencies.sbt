@@ -9,7 +9,7 @@ ThisBuild / crossScalaVersions :=
  * @see [[https://typelevel.org/cats/]]
  */
 libraryDependencies +=
-  "org.typelevel" %% "cats-core" % "2.10.0"
+  "org.typelevel" %% "cats-core" % "2.12.0"
 
 /**
  * Patch and modify deeply nested case classes.
